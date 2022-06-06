@@ -52,3 +52,11 @@ P.S. You do not have to change the names of the files that you will install from
 ```
 
 For more info enter here: https://discord.gg/kUvd982grX and open a Ticket to receive support.
+
+## SETUP
+
+```
+git clone https://github.com/akaserra/updater.git
+cd updater
+py updater.py
+```
