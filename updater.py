@@ -16,7 +16,7 @@ FILE_Path = 'updater-main.zip'  # Name of the .zip file
 def version():
     print('I\'m looking for new updates...')
     time.sleep(2)
-    if FILE_Version == '3':
+    if FILE_Version == '1':
         print('No available updates.')
         input('Press enter to continue...')
     else:
