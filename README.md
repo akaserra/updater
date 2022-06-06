@@ -26,7 +26,7 @@ P.S. Non dovete cambiare i nomi dei file che installerete da questa Repository!
 
 Per maggiori informazioni entrate qui: https://discord.gg/kUvd982grX e aprite un Ticket per ricevere supporto
 
-**ITA » how does work the updater**
+**ENG » how does work the updater**
 
 The updater is a very useful script, which has as its main use, to make users automatically install the updates of your projects.
 
