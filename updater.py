@@ -1,3 +1,4 @@
+#updater by akarta
 # Import modules
 
 import os
@@ -9,7 +10,7 @@ import urllib.request
 try:
     from colorama import *
 except ImportError:
-    raise SystemExit('Please run › pip install pynput')
+    raise SystemExit('Please run › pip install colorama')
 
 FILE_Version = \
     urllib.request.urlopen('https://raw.githubusercontent.com/akaserra/updater/main/Version/Version.txt').read().decode(
