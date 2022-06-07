@@ -51,7 +51,7 @@ _Don't change the rest unless you know what you're doing!_
 P.S. You do not have to change the names of the files that you will install from this Repository!
 ```
 
-For more info enter here: https://discord.gg/kUvd982grX and open a Ticket to receive support.
+For more info enter here: [https://discord.gg/kUvd982grX](https://discord.gg/kUvd982grX) and open a Ticket to receive support.
 
 ## SETUP
 
@@ -59,4 +59,14 @@ For more info enter here: https://discord.gg/kUvd982grX and open a Ticket to rec
 git clone https://github.com/akaserra/updater.git
 cd updater
 py updater.py
+```
+## AUTHOR INFO
+
+```
+Hydra Studios' Owner & Python Developer » https://discord.gg/kUvd982grX
+
+My contact
+discord: akarta#8195
+telegram: @skartato
+Hydrastudios: https://discord.gg/kUvd982grX
 ```
