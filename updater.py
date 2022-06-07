@@ -1,4 +1,4 @@
-#updater by akarta
+# Updater by akarta
 # Import modules
 
 import os
