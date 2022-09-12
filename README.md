@@ -67,6 +67,6 @@ Hydra Studios' Owner & Python Developer » https://discord.gg/kUvd982grX
 
 My contact
 discord: akarta#8195
-telegram: @skartato
+telegram: @TrialHelper
 Hydrastudios: https://discord.gg/kUvd982grX
 ```
